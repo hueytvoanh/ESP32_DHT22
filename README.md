@@ -8,4 +8,8 @@
     -    -----    GND
     out  -----    GPIO Pin (13)
 
+# Output 
+<img width="685" height="208" alt="image" src="https://github.com/user-attachments/assets/2c56d418-be15-4f92-80de-798d5f9ceb97" />
+
+
 
