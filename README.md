@@ -4,5 +4,8 @@
 <img width="785" height="191" alt="image" src="https://github.com/user-attachments/assets/7641bb46-a2ca-40fb-b0d8-3840392afbdf" />
 
 # Connection 
+    +    -----    3.3V
+    -    -----    GND
+    out  -----    GPIO Pin (13)
 
 
